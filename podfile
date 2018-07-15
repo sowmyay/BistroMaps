@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+
+target 'bistroMaps' do
+    pod 'GooglePlaces'
+    pod 'GooglePlacePicker'
+    pod 'GoogleMaps'
+    pod 'Alamofire'
+    pod 'AlamofireImage'
+    pod 'SwiftyJSON'
+
+end

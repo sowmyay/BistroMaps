@@ -1,0 +1,6 @@
+module Pods_bistroMaps {
+  umbrella header "Pods-bistroMaps-umbrella.h"
+
+  export *
+  module * { export * }
+}
